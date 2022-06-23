@@ -1,1 +1,2 @@
-My first readme
+My first readme with ALX. 
+Their projects are so cool!
